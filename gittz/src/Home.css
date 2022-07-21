@@ -1,0 +1,25 @@
+.Home{
+    width: 100vw;
+    height: 100vh;
+  }
+  
+h5 {
+  color: white;
+  
+}
+.container {
+  max-width: '90%' ;
+}
+
+.col-md-3 {
+  width:20%;
+  margin:0 2.5%;
+}
+
+a {
+  font-weight: bold;
+  font-size: larger;
+  
+}
+
+
