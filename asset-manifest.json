@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Streamzzer/static/css/main.1a2c0394.css",
+    "main.js": "/Streamzzer/static/js/main.4b6a99b3.js",
+    "index.html": "/Streamzzer/index.html",
+    "main.1a2c0394.css.map": "/Streamzzer/static/css/main.1a2c0394.css.map",
+    "main.4b6a99b3.js.map": "/Streamzzer/static/js/main.4b6a99b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a2c0394.css",
+    "static/js/main.4b6a99b3.js"
+  ]
+}
